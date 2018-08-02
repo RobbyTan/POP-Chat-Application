@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-44:12
+	package
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:13:5-96
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:14:22-76
+application
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:16:5-42:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.lguipeng:BubbleView:1.0.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.github.lguipeng\BubbleView\1.0.1\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:19:9-38
+	android:theme
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
+activity#com.parse.starter.MainActivity
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
+receiver#com.parse.starter.receiver.AlarmReceiver
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:38:19-57
+activity#com.parse.starter.UserListActivity
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:39:9-54
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:39:19-51
+activity#com.parse.starter.ChatActivity
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:40:19-47
+activity#com.parse.starter.ProfileActivity
+ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:41:9-62
+	android:name
+		ADDED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml:41:19-50
+uses-sdk
+INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [de.hdodenhof:circleimageview:2.2.0] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.lguipeng:BubbleView:1.0.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.github.lguipeng\BubbleView\1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\androidApp\WhatsappCloneFinal2\WhatsappClone\ParseStarterProject\src\main\AndroidManifest.xml

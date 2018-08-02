@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\androidApp\\WhatsappCloneFinal\\WhatsappClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\androidApp\\WhatsappCloneFinal\\WhatsappClone\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\WhatsappClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\USER\\Desktop\\WhatsappClone\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\androidApp\\WhatsappCloneFinal2\\WhatsappClone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\androidApp\\WhatsappCloneFinal2\\WhatsappClone\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
